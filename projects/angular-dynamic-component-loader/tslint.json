@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "rakAngularDynamicComponentLoader", "camelCase"],
+    "component-selector": [true, "element", "rak-angular-dynamic-component-loader", "kebab-case"]
+  }
+}
