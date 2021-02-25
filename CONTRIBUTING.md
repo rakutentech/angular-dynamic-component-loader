@@ -49,7 +49,7 @@ Any line of the commit message cannot be longer 100 characters! This allows the 
 to read on GitHub as well as in various git tools.
 Footer should contain a [closing reference to an issue](https://help.github.com/articles/closing-issues-via-commit-messages/) if any.
 
-> You can install [Commitizen](https://github.com/commitizen/cz-cli) and use it instead of `git commit` to generate correctly formated commit messages. 
+> You can install [Commitizen](https://github.com/commitizen/cz-cli) and use it instead of `git commit` to generate correctly formated commit messages.
 
 ### Revert
 
