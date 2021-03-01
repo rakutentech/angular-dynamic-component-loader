@@ -18,7 +18,7 @@ This library exposes a dynamic loader for angular components.
 - Install Angular Dynamic Component Loader:
 
 ```bash
-npm install @rak/angular-dynamic-component-loader
+npm install @rakutentech/angular-dynamic-component-loader
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ npm install @rak/angular-dynamic-component-loader
 To use Angular Dynamic Component Loader, you will need to import the `DynamicComponentLoaderService`:
 
 ```typescript
-import { DynamicComponentLoaderService } from '@rak/angular-dynamic-component-loader';
+import { DynamicComponentLoaderService } from '@rakutentech/angular-dynamic-component-loader';
 ```
 
 You can now create a dynamic component. This is done by calling the `loadComponent()` method of the service, which first needs to be injected:

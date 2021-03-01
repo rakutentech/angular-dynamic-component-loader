@@ -13,9 +13,9 @@
     "module": "es2020",
     "lib": ["es2018", "dom"],
     "paths": {
-      "@rak/angular-dynamic-component-loader": [
-        "dist/@rak/angular-dynamic-component-loader/*",
-        "dist/@rak/angular-dynamic-component-loader"
+      "@rakutentech/angular-dynamic-component-loader": [
+        "dist/@rakutentech/angular-dynamic-component-loader/*",
+        "dist/@rakutentech/angular-dynamic-component-loader"
       ]
     }
   }

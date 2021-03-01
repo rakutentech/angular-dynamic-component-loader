@@ -14,7 +14,7 @@ Run `ng build angular-dynamic-component-loader` to build the project. The build 
 
 ## Publishing
 
-After building your library with `ng build angular-dynamic-component-loader`, go to the dist folder `cd dist/angular-dynamic-component-loader` and run `npm publish`.
+After building your library with `ng build angular-dynamic-component-loader`, go to the dist folder `cd dist/@rakutentech/angular-dynamic-component-loader` and run `npm publish`.
 
 ## Running unit tests
 

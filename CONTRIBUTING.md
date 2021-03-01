@@ -72,7 +72,7 @@ Must be one of the following:
 ### Scope
 
 You should only provide a scope for commits with **build** or **ci** types (cf. type examples above).
-Other types of commit are by default under the library's scope (@rak/angular-dynamic-component-loader) and can be omitted.
+Other types of commit are by default under the library's scope (@rakutentech/angular-dynamic-component-loader) and can be omitted.
 
 ### Subject
 
