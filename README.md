@@ -6,7 +6,11 @@ This library exposes a dynamic loader for angular components.
 
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
+- [Download](#Download)
 - [Usage](#usage)
+- [Development](#Development)
+- [Changelog](https://github.com/rakutentech/angular-dynamic-component-loader/releases)
+- [Contributing](https://github.com/rakutentech/angular-dynamic-component-loader/blob/main/CONTRIBUTING.md)
 - [License](#license)
 
 ## Prerequisites
@@ -20,6 +24,12 @@ This library exposes a dynamic loader for angular components.
 ```bash
 npm install @rakutentech/angular-dynamic-component-loader
 ```
+
+## Download
+- NPM
+    - `npm i @rakutentech/angular-dynamic-component-loader`
+- GIT
+    - `git clone https://github.com/rakutentech/angular-dynamic-component-loader.git`
 
 ## Usage
 
@@ -49,6 +59,15 @@ It takes four arguments:
 - The data of the component instance.
 - Should be set to `true` if the view should be assigned to a [viewContainer](https://angular.io/api/core/ApplicationRef#attachView)
 - The providers injector of the component instance.
+
+## Development
+Clone the repository and install all the necessary dependencies.
+
+```bash
+git clone https://github.com/rakutentech/angular-dynamic-component-loader.git
+cd angular-dynamic-component-loader
+npm install
+```
 
 ## License
 
